@@ -1,0 +1,9 @@
+[env]
+SAVE_PROBABILITY="1"
+NUM_OF_EXPERIMENT="10"
+DB_PATH="/app/data/data.db"
+SWARM_MODE_DIST="0.01"
+DENSITY_RADIUS="0.01"
+AUTOMODE_EXE = "/app/AutoMoDe/bin/automode_main"
+SCENARIO = "/app/mission.argos"
+EXPERIMENT_LEN="1200"
